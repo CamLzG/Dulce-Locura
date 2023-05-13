@@ -1,0 +1,31 @@
+.containerNavBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.logo {
+  font-family: "Cream Cake", sans-serif;
+  font-size: 50px;
+  color: #006D77;
+}
+
+ul {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+ul li {
+  text-decoration: none;
+  font-size: 25px;
+  margin-right: 80px;
+  list-style-type: none;
+  font-weight: 1000;
+  color: #006D77;
+}
+
+a:visited{
+    color: #006D77;
+}

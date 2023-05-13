@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@200&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    font-family: 'Jost', sans-serif;
+    background-image: url(../src/assets/img/General/patronFondo.png);
+}
