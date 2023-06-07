@@ -11,13 +11,13 @@
   color: #006D77;
 }
 
-ul {
+.navList {
   display: flex;
   justify-content: flex-end;
   align-items: center;
 }
 
-ul li {
+.navLi {
   text-decoration: none;
   font-size: 25px;
   margin-right: 80px;
