@@ -16,6 +16,6 @@ a:visited{
 
 body{
     font-family: 'Jost', sans-serif;
-    background-image: url(../src/assets/img/General/patronFondo.png);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/dulce-locura.appspot.com/o/General%2FpatronFondo.png?alt=media&token=c255b878-7364-4fa8-bb84-c84e00f00bf6);
     min-height: 100vh;
 }
