@@ -1,0 +1,22 @@
+.categoryContainer{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    align-content: center;
+    align-items: center;
+    margin: 50px;
+    background-color: rgb(226, 149, 120);
+    border-radius: 20px;
+    padding: 20px;
+    color: #006D77;
+}
+
+.selectedCategory{
+    color: rgb(237, 246, 249);
+}
+
+.categoryContainer p{
+    font-size: 20px;
+    font-weight: bolder;
+    cursor: pointer ;
+}

@@ -1,0 +1,25 @@
+.aboutUsContainer{
+    display: flex;
+    height: auto;
+    margin: 50px auto;
+    width: 80%;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background-color: rgb(131, 197, 190, 0.5);
+    box-shadow: -1px 12px 53px -8px rgba(0,0,0,0.75);
+-webkit-box-shadow: -1px 12px 53px -8px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 12px 53px -8px rgba(0,0,0,0.75);
+}
+
+.aboutUsText{
+    font-size: 30px;
+    padding: 60px;
+}
+
+.aboutUsImg {
+    width: 500px;
+    height: 500px;
+    padding: 40px;
+}

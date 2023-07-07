@@ -1,0 +1,45 @@
+.preContainer{
+    margin-top: 100px;
+}
+
+.preText{
+    margin: 50px;
+    font-size: 50px;
+    color: rgb(226, 149, 120);
+}
+
+.preImgContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-between;
+    align-items: center;
+    width: 80%;
+    height: auto;
+    margin: 20px auto;
+}
+
+.imgPresentation{
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: -1px 12px 53px -8px rgba(0,0,0,0.75);
+-webkit-box-shadow: -1px 12px 53px -8px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 12px 53px -8px rgba(0,0,0,0.75);
+}
+
+.imgPresentation:hover{
+    transform: scale(1.05);
+}
+
+.btn{
+    font-size: 20px;
+    margin: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(131, 197, 190);
+    border: none;
+    cursor: pointer;
+    color: rgb(237, 246, 249);
+}

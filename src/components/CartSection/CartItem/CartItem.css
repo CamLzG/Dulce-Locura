@@ -1,0 +1,27 @@
+.itemsCardConteiner{
+    display: flex;
+    margin: 10px auto;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+}
+
+.itemName{
+    font-size: 20px;
+    font-weight: bolder;
+    width: 20%;
+}
+
+.remove{
+    color: red;
+    cursor: pointer;
+    font-weight: 900;
+    font-size: 30px;
+    width: 10%;
+}
+
+.itemsCardConteiner img{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}

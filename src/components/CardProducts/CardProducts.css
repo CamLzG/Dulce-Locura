@@ -5,11 +5,16 @@
   padding: 10px;
   background-color: aliceblue;
   text-align: center;
-  border-radius: 20%;
+  border-radius: 20px;
   margin: 10px;
   box-shadow: 1px 3px 17px -2px rgba(0, 0, 0, 0.69);
   -webkit-box-shadow: 1px 3px 17px -2px rgba(0, 0, 0, 0.69);
   -moz-box-shadow: 1px 3px 17px -2px rgba(0, 0, 0, 0.69);
+}
+
+.cardTextDesc{
+  padding: 10px;
+  margin: 10px;
 }
 
 .cardImg img {
@@ -28,19 +33,27 @@
 
 .sectionAdd {
   display: flex;
+  align-items: center;
   justify-content: center;
-  align-content: center;
-  vertical-align: middle;
-}
-
-.inputCantidad{
-  margin-top: 12px;
 }
 
 .btnAdd {
+  font-size: 15px;
   margin: 10px;
   padding: 10px;
-  border-radius: 10%;
-  background-color: aquamarine;
+  border-radius: 10px;
+  background-color: rgb(131, 197, 190);
   border: none;
+  cursor: pointer;
+}
+
+.btn2{
+  font-size: 20px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(131, 197, 190);
+  border: none;
+  cursor: pointer;
+  color: rgb(237, 246, 249);
 }

@@ -7,9 +7,15 @@
 
 a{
     text-decoration: none;
+    color: #006D77;
+}
+
+a:visited{
+    color: #006D77;
 }
 
 body{
     font-family: 'Jost', sans-serif;
     background-image: url(../src/assets/img/General/patronFondo.png);
+    min-height: 100vh;
 }

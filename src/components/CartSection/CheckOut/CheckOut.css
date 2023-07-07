@@ -1,0 +1,24 @@
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    vertical-align: middle;
+}
+
+.form{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form input{
+    width: 50%;
+    height: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px;
+    border: none;
+    text-align: center;
+}
+
